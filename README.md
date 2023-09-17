@@ -143,7 +143,7 @@ I need some time to finalize assembly instructions. If you have questions you'll
 
 ***The code only works with https://github.com/moggieuk/Happy-Hare** If you haven't updated yet you really should.
 
-Copy *mmu_additional.cfg* to your printer config directory *mmu/base/* and include it in your *printer.cfg* below all of the mmu includes via 
+Copy **mmu_additional.cfg** to your printer config directory **mmu/base/** and include it in your **printer.cfg** below all of the mmu includes via 
 
 ```
 [include mmu/base/mmu_additional.cfg]
